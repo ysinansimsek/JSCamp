@@ -29,3 +29,7 @@ customer.lastName="SoyİsimAlanı"
 
 console.log(customer.firstName + " " + customer.lastName)
 
+console.log("----------22/11/2021---------------")
+userService.load()
+console.log(userService.customers)
+console.log(userService.employees)
